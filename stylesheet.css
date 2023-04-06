@@ -1,0 +1,46 @@
+table {
+  border-radius: 2%;
+  box-shadow: 0px 6px 12px #000;
+}
+tr {
+  border-radius: 7%;
+}
+td {
+  width: 60px;
+  border-radius: 7%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  color: aliceblue;
+  font-weight: bold;
+}
+
+input[type="button"] {
+  height: 50px;
+  background-color: rgb(163, 167, 163);
+  color: rgb(8, 0, 0);
+  font-weight: bold;
+  font-size: 22px;
+  width: 100%;
+}
+.title {
+  margin-bottom: 10px;
+  height: 70px;
+  text-align: center;
+  border-radius: 2%;
+  background-color: rgb(163, 170, 163);
+  width: 210px;
+  color: rgb(10, 7, 7);
+}
+input[type="text"] {
+  font-size: 22px;
+  border-radius: 7%;
+  background-color: white;
+  height: 50px;
+  width: 100%;
+}
+input[type="button"].ekor {
+  background-color: rgb(218, 23, 23);
+}
+input[type="button"].kode {
+  background-color: rgb(81, 153, 33);
+}
